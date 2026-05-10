@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning FULLSTACK 🌱<br>Student At Jadara University  <br>25. May .0
+🔭 I’m currently working on learning FULLSTACK 🌱<br>Student At Jadara University  <br> 25.May.05
 
 
 ## 🌐 Socials:
