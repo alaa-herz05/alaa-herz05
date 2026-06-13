@@ -10,10 +10,10 @@
 
 ### 💫 About Me
 
-🎓 **Computer Science Student** at Jadara University  
-🗓️ Born **May 25, 2005** · Irbid, Jordan  
-🚀 Passionate about building software and learning new technologies  
-🌱 Currently expanding my skills in **Web Development** & **FullStack developer**
+🎓 **Computer Science Student** at Jadara University
+🗓️ Born **May 25, 2005** · Amman, Jordan
+🚀 Passionate about building software and learning new technologies
+🌱 Currently expanding my skills in **Web Development** & **Software Engineering**
 
 </div>
 
